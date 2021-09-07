@@ -14,11 +14,11 @@ vault_wordpress_sites:
     env:
       db_password: example_dbpassword
       # Generate your keys here: https://roots.io/salts.html
-      auth_key: "generateme"
-      secure_auth_key: "generateme"
-      logged_in_key: "generateme"
-      nonce_key: "generateme"
-      auth_salt: "generateme"
-      secure_auth_salt: "generateme"
-      logged_in_salt: "generateme"
-      nonce_salt: "generateme"
+      auth_key: "l^R%=JQ/U5ml]fJ|j+-]Yx.GT#^n_HC+APlJy!hYq[a#SL;IEow8Poi2;75{Ha@>"
+      secure_auth_key: "6?f=O+v{U&9F&Pgz-I?T`AqCB{]7R/j}hD[iQBk]V%iVKV$IF*5wlN@I[=/p^D`?"
+      logged_in_key: "<cZ0`P!W#gE(Sox0oYp`iVh#X;ZQjYtTagksw3M9i{vNN{Qz.yWZwDdh)Evmq*BH"
+      nonce_key: "3wqmIfpZ})a_lnTRvNi<5Z0d1ngDyo*@9k/SjjjZi{o%nhxA>PQc;..opxy$?jC>"
+      auth_salt: "z$A%`!#@Mg+zn9b{)<5k.DVeog+#zH;2h]Ht)4U1>O1P);M5.aC.oTX_BpY@9XI+"
+      secure_auth_salt: "fp?@`4|T29!#N-wYGdEZg8.yrM#xMPtgt=FhFhh@J&OOF!@AiqUX}Z^aX?)^fxx`"
+      logged_in_salt: "`kDF4cF$}jg7|g-[td/mrXJ:`b9JAq-j5.f8}lQi(^p9q#{P}5%JGz:Tao<[J[CQ"
+      nonce_salt: "w>EDF%d{Bg0A{6v5`}k|;bx&>a|HN&BCiA*6@?JB]lkKdA<{Nsh?gBmbwIS6Z4Ir"

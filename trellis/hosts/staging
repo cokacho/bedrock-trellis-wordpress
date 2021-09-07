@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [staging]
-your_server_hostname
+192.168.50.234 ansible_user=admin
 
 [web]
-your_server_hostname
+192.168.50.234 ansible_user=admin
