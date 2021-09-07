@@ -12,9 +12,7 @@ known_hosts:
     key: gitlab.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAfuCHKVTjquxvt6CM6tdG4SLp1Btn/nOeHHE5UOzRdf
   - name: gitlab.com
     key: gitlab.com ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCsj2bNKTBSpIYDEGk9KxsGh3mySTRgMtXL583qmBpzeQ+jqCMRgBqB98u3z++J1sKlXHWfM9dyhSevkMwSbhoR8XIq/U0tCNyokEi/ueaBMCvbcTHhO7FcwzY92WK4Yt0aGROY5qX2UKSeOvuP4D6TPqKF1onrSzH9bx9XUf2lEdWT/ia1NEKjunUqu1xOB/StKDHMoX4/OKyIzuS0q/T1zOATthvasJFoPrAjkohTyaDUz2LN5JoH839hViyEG82yB+MjcFV5MU3N1l1QL3cVUCh93xSaua1N85qivl+siMkPGbO5xR/En4iEY6K2XPASUEMaieWVNTRCtJ4S8H+9
-  - name: mac-develop
-    key: cokacho@gmail.com ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCnyNUFHpLSyLL2UbmEI7hmAsATx+CiDW/4DjU10W9A0GE6LknFvPAr9XGZkRWVHNF+6Yb1iL0v9N/UqBofyrCvthLevvXrm96c0yldCy0husL92N+5tcExKeE1lETd6CefCSnb6bYrYo+24h0+8/PIJnSnC8bqA2bGPhFtSIfZ/CndSZtKg/gQlNb1M8NaaXMyCwYpiDSCZ5vIBU0zylQ6cv+Ada8zGEe/EcX1AlJ6qwnlADhQoebnqdvcMqWwKDb65OF3m0St/rkiYFlt/RVAUAD9jI+ItILtwUnHsGhlOnhASagf6hDKQCSPfd4hQwxS1ug4DAkYy/omlt9tjr60n3WVJTopKJiMTm0UXbMo2n5IQ/beDQhhAfG5O8UybydZYfzjpqCmPak5XdLwwYQVefs0xl7Bi6K8Y4nl/pG9yq40snM/RsQwPYzXGFP5rRA5qW1r2Q0URkqAitmpJB1gCC6TybDVlx8UAdOfDiRQf+o31YXM5vtVDIMgGA1gq7h+HVqurRfkvovVohVq8Ns34WPxNW3fQzhgKrVGK4IeVz6RhXsXGfmtmSSKCHVwzpNPxO075v9HxfRjRRQl8KXKu3ETVdJPU6o9iL92vhRQ8rZV2JqIVMp93UDPmB107e6CSVziP0z98XfWWXyyADi0tzZyk+mUV4uyw5VB+h2wkw==
-    
+
 # Whether to automatically accept the host key for your `repo` (in `wordpress_sites`) during git clone.
 # To avoid man-in-the-middle attacks, set this to `false` and add repo host key to `known_hosts` above.
 repo_accept_hostkey: true
