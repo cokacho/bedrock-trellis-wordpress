@@ -9,7 +9,7 @@ wordpress_sites:
         redirects:
           - www.development.roots.example.com
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
-    admin_email: admin@example.test
+    admin_email: nel.esc.cas@gmail.com
     multisite:
       enabled: false
     ssl:
